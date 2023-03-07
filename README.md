@@ -14,7 +14,7 @@
 			</section>
 			<section style="margin: 20px 0 0 -20px;transform: translateZ(5px)">
 				<section style="font-size: 16px;color: #ffffff;border-bottom: 4px solid #fff7d6;background-color: #b3dc8e;padding: 3px 10px;letter-spacing: 1.5px;">
-					<strong class="135brush" data-brushtype="text">Jason Sparrow</strong>
+					<strong class="135brush" data-brushtype="text">Jack</strong>
 				</section>
 			</section>
 		</section>
@@ -38,7 +38,7 @@
 		</section>
 		<section data-autoskip="1" class="135brush" style="text-align: justify;line-height:1.75em;letter-spacing: 1.5px;font-size:14px;color:#333333;background-color: #ffffff;padding: 15px;border: 1px solid #b3dc8e;transform: translateZ(10px)">
 			<p>
-				I am a college student from Zhejiang Province, China. I like reading and hiking.
+				My hobby is playing games. My expectation for this course is to learn something.
 			</p>
 		</section>
 	</section>
@@ -62,10 +62,10 @@
 		<section style="background-color: #f7f5eb;padding: 10px;" class="">
 			<section data-op="division" style="display: flex;justify-content: space-between;align-items: flex-end;">
 				<section style="max-width: 49% !important;box-sizing:border-box;width: 49%;" data-width="49%">
-					<img data-division="0,0,0.49,1" style="max-width: 100% !important;box-sizing:border-box;vertical-align:inherit;width: 100%; display: block;" src="微信图片_20230306223027.jpg" data-width="100%" draggable="false" data-ratio="1" data-w="258"/>
+					<img data-division="0,0,0.49,1" style="max-width: 100% !important;box-sizing:border-box;vertical-align:inherit;width: 100%; display: block;" src="20230306203254.jpg" data-width="100%" draggable="false" data-ratio="1" data-w="258"/>
 				</section>
 				<section style="max-width: 49% !important;box-sizing:border-box;width: 49%;" data-width="49%">
-					<img data-division="0.49,0,0.49,1" style="max-width: 100% !important;box-sizing:border-box;vertical-align:inherit;width: 100%; display: block;" src="微信图片_20230222084401.jpg" data-width="100%" draggable="false" data-ratio="1" data-w="258"/>
+					<img data-division="0.49,0,0.49,1" style="max-width: 100% !important;box-sizing:border-box;vertical-align:inherit;width: 100%; display: block;" src="20230306210101.jpg" data-width="100%" draggable="false" data-ratio="1" data-w="258"/>
 				</section>
 			</section>
 		</section>
