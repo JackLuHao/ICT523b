@@ -100,6 +100,7 @@
 
 ![20230306210101](https://user-images.githubusercontent.com/127078546/223294349-1c0f1724-d2a0-46e0-b880-f1f428f6b39d.jpg)
 
+![pie-chart-misuses-2](https://user-images.githubusercontent.com/127078546/223890822-6e5d8321-4fbb-48a4-9c0f-b4d049a91ef3.jpg)
 
 
 </body>
